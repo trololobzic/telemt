@@ -1,0 +1,10 @@
+.env
+*.env
+! .env.example
+telemt.toml
+data/
+prometheus_data/
+grafana_data/
+.DS_Store
+Thumbs.db
+*.log
